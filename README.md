@@ -14,5 +14,6 @@
 
 - Run [download_hpa_dataset.py](download_hpa_dataset.py) to download the HPAv18 image dataset from https://www.proteinatlas.org.
   ```
+  pip3 install -r requirements.txt
   python3 download_hpa_dataset.py
   ```
