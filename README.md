@@ -4,6 +4,7 @@
 
 1. [Source code for plots](#source-code-for-plots)
 2. [Script to download HPAv18](#script-to-download-hpav18)
+3. [Source code of team solutions](#Source-code-of-team-solutions)
 
 ### Source code for plots
 
@@ -13,7 +14,12 @@
 ### Script to download HPAv18
 
 - Run [download_hpa_dataset.py](download_hpa_dataset.py) to download the HPAv18 image dataset from https://www.proteinatlas.org.
+
   ```
   pip3 install -r requirements.txt
   python3 download_hpa_dataset.py
   ```
+
+### Source code of team solutions
+
+- See [this repository](https://github.com/CellProfiling/HPA-competition-solutions) for the source code of the teams that are co-authors of the paper.
